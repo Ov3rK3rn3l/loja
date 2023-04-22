@@ -1,2 +1,2 @@
 # loja
- API REST
+ API REST N/S
